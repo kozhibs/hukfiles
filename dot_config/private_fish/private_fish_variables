@@ -1,0 +1,22 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR fish_color_autosuggestion:616161
+SETUVAR fish_color_cancel:424242
+SETUVAR fish_color_command:brwhite\x1e\x2d\x2dbold
+SETUVAR fish_color_comment:424242\x1e\x2d\x2ditalics
+SETUVAR fish_color_cwd:9e9e9e
+SETUVAR fish_color_end:616161
+SETUVAR fish_color_error:e0e0e0\x1e\x2d\x2dunderline
+SETUVAR fish_color_escape:757575
+SETUVAR fish_color_host:bdbdbd
+SETUVAR fish_color_host_remote:bdbdbd
+SETUVAR fish_color_keyword:brwhite
+SETUVAR fish_color_normal:white
+SETUVAR fish_color_operator:brwhite
+SETUVAR fish_color_option:e0e0e0
+SETUVAR fish_color_param:bdbdbd
+SETUVAR fish_color_quote:9e9e9e
+SETUVAR fish_color_redirection:757575
+SETUVAR fish_color_search_match:\x2d\x2dbackground\x3d212121
+SETUVAR fish_color_selection:\x2d\x2dbackground\x3d424242
+SETUVAR fish_color_user:brwhite
